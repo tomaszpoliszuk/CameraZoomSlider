@@ -8,8 +8,8 @@ This tweak is open sourced [on Github](https://github.com/tomaszpoliszuk/CameraZ
 
 Before:
 
-![before](screenshots/before.png)
+![before](screenshots/before.jpg)
 
 After:
 
-![after](screenshots/after.png)
+![after](screenshots/after.jpg)
