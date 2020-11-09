@@ -3,8 +3,8 @@
 	return 1;
 }
 %end
-%hook CAMViewfinderViewController 
+%hook CAMViewfinderViewController
 -(BOOL)_shouldUseZoomControlInsteadOfSlider {
-    return YES;
+	return YES;
 }
 %end
