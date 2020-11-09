@@ -1,8 +1,12 @@
-*Enable new type of Camera Zoom Slider on iOS greater or equal to 13.4*
+# Camera Zoom Slider
+Enable new type of Camera Zoom Slider
 
-No options to configure.
+## Compatibility
+* iOS 13.4 and above
 
-**Don't install this tweak if you already have new type of Camera Zoom Slider**
+**No options to configure.**
+
+## Screenshots:
 
 Before:
 

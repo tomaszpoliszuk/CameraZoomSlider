@@ -1,0 +1,15 @@
+Package: com.tomaszpoliszuk.camerazoomslider
+Depends: firmware (>= 13.4), mobilesubstrate
+Name: Camera Zoom Slider
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Enable new type of Camera Zoom Slider
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=camerazoomsliderDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=camerazoomsliderDp
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Tomasz Poliszuk
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: tomaszpoliszuk
+Tag: purpose::extension
+
